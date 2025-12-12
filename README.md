@@ -129,7 +129,7 @@ tugas-ai-model-improvement/
 
 ### Visualisasi
 
-![Grafik Tuning Parameter](https://via.placeholder.com/600x400.png?text=Grafik+Accuracy+vs+K)
+![Grafik Tuning Parameter](images/GrafikEvaluasi.png)
 
 *Grafik menunjukkan performa model dengan berbagai nilai K*
 
